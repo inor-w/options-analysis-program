@@ -1,0 +1,38 @@
+# Python-related
+*.py[cod] 
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+ENV/
+venv.bak/
+.VE/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# System-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PyCharm or other IDEs
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Windows
+*.bak
+*.swp
+*.tmp
+*~ 

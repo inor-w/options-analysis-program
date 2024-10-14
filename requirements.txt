@@ -1,4 +1,4 @@
-pandas
-openpyxl
-scipy
-pywin32
+pandas==2.1.1
+openpyxl==3.1.2
+scipy==1.11.3
+pywin32==306

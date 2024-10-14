@@ -1,4 +1,3 @@
-print("test")
 import logging
 
 from gui import load_gui
